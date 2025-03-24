@@ -20,4 +20,5 @@ This project uses a fine-tuned BERT model to detect emotions from text inputs an
 - Integration with Spotify API to recommend playlists
 - UI/UX under development for easy user input
 
-![image](https://github.com/user-attachments/assets/d0a0f3f6-f59a-4064-a72b-791d977d19de)
+![image](https://github.com/user-attachments/assets/49bafcd9-e8a6-455d-9009-c995657eca70)
+

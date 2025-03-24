@@ -1,0 +1,141 @@
+
+{
+    "uplifting": [
+        "Coldplay – Viva La Vida",
+        "Florence + The Machine – Dog Days Are Over",
+        "AR Rahman – Jai Ho",
+        "U2 – Beautiful Day"
+    ],
+    "upbeat": [
+        "Dua Lipa – Don't Start Now",
+        "Avicii – Wake Me Up",
+        "Jonas Brothers – Sucker",
+        "Badshah – Genda Phool"
+    ],
+    "intense": [
+        "Eminem – Lose Yourself",
+        "Kanye West – Black Skinhead",
+        "Linkin Park – Given Up",
+        "System of a Down – Toxicity"
+    ],
+    "chill": [
+        "Mac DeMarco – Chamber of Reflection",
+        "Norah Jones – Come Away With Me",
+        "Prateek Kuhad – Cold/Mess",
+        "John Mayer – Gravity"
+    ],
+    "happy": [
+        "Justin Timberlake – Can’t Stop the Feeling!",
+        "Shakira – Waka Waka",
+        "BTS – Dynamite",
+        "Anirudh – Don'u Don'u Don'u"
+    ],
+    "soothing": [
+        "Enya – Only Time",
+        "Yiruma – River Flows in You",
+        "Anoushka Shankar – Voice of the Moon",
+        "Arijit Singh – Khairiyat"
+    ],
+    "suspense": [
+        "Hans Zimmer – Time",
+        "Ramin Djawadi – Light of the Seven",
+        "Jóhann Jóhannsson – Flight from the City",
+        "Trent Reznor & Atticus Ross – Hand Covers Bruise"
+    ],
+    "thrill": [
+        "Imagine Dragons – Natural",
+        "Kanye West – POWER",
+        "The Score – Unstoppable",
+        "NF – The Search"
+    ],
+    "melancholy": [
+        "Adele – Someone Like You",
+        "Coldplay – Fix You",
+        "Arijit Singh – Channa Mereya",
+        "Lorde – Liability"
+    ],
+    "dark": [
+        "Billie Eilish – Bury a Friend",
+        "Radiohead – Climbing Up The Walls",
+        "Marilyn Manson – Sweet Dreams",
+        "AURORA – Runaway"
+    ],
+    "grunge": [
+        "Nirvana – Smells Like Teen Spirit",
+        "Pearl Jam – Jeremy",
+        "Soundgarden – Black Hole Sun",
+        "Alice in Chains – Rooster"
+    ],
+    "lofi": [
+        "potsu – I’m Closing My Eyes",
+        "Joji – Will He",
+        "Idealism – Controlla",
+        "Kudasai – The Girl I Haven’t Met"
+    ],
+    "energetic": [
+        "David Guetta ft. Sia – Titanium",
+        "Major Lazer – Lean On",
+        "Darshan Raval – Kamariya",
+        "Zayn – Dusk Till Dawn"
+    ],
+    "ambient": [
+        "Ólafur Arnalds – Near Light",
+        "Brian Eno – An Ending (Ascent)",
+        "Nils Frahm – Says",
+        "Max Richter – On The Nature Of Daylight"
+    ],
+    "soft rock": [
+        "The Eagles – Desperado",
+        "Pink Floyd – Wish You Were Here",
+        "Scorpions – Send Me An Angel",
+        "Goo Goo Dolls – Iris"
+    ],
+    "romantic": [
+        "Ed Sheeran – Perfect",
+        "Atif Aslam – Pehli Dafa",
+        "John Legend – All of Me",
+        "Armaan Malik – Bol Do Na Zara"
+    ],
+    "calm": [
+        "Jason Mraz – I'm Yours",
+        "Jack Johnson – Banana Pancakes",
+        "Lucky Ali – O Sanam",
+        "The Paper Kites – Bloom"
+    ],
+    "confident": [
+        "Beyoncé – Run the World (Girls)",
+        "Kanye West – Stronger",
+        "Demi Lovato – Confident",
+        "Naezy – Aafat Waapas"
+    ],
+    "thoughtful": [
+        "Bon Iver – Holocene",
+        "Sufjan Stevens – Mystery of Love",
+        "Prateek Kuhad – Kasoor",
+        "Ben Howard – Keep Your Head Up"
+    ],
+    "peaceful": [
+        "Sigur Rós – Sæglópur",
+        "Sleeping at Last – Saturn",
+        "Anuv Jain – Alag Aasmaan",
+        "Ludovico Einaudi – Nuvole Bianche"
+    ],
+    "reflective": [
+        "Damien Rice – 9 Crimes",
+        "Adele – Million Years Ago",
+        "Raghu Dixit – Hey Bhagwan",
+        "Leonard Cohen – Famous Blue Raincoat"
+    ],
+    "eclectic": [
+        "Gorillaz – Feel Good Inc.",
+        "Sia – Chandelier",
+        "The Beatles – A Day In The Life",
+        "Divine – Kohinoor"
+    ],
+    "indie": [
+        "Arctic Monkeys – Do I Wanna Know?",
+        "Lana Del Rey – Video Games",
+        "Tame Impala – The Less I Know The Better",
+        "The 1975 – Somebody Else"
+    ]
+}

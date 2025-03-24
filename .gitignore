@@ -1,0 +1,4 @@
+.env
+*.csv
+emotion_model/
+test.ipynb

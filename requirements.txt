@@ -1,0 +1,7 @@
+transformers
+datasets
+scikit-learn
+pandas
+torch
+tqdm
+spotipy

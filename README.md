@@ -1,4 +1,4 @@
-# 🎧 BERT-Playlist-for-Spotify
+# BERT-Playlist-for-Spotify
 
 This project uses a fine-tuned BERT model to detect emotions from text inputs and generate personalized Spotify playlists based on the predicted emotions.
 
@@ -20,9 +20,3 @@ This project uses a fine-tuned BERT model to detect emotions from text inputs an
 - Multi-label emotion support (e.g., joy + nostalgia)
 - Integration with Spotify API to recommend playlists
 - UI/UX under development for easy user input
-
----
-
-## Folder Structure
-
-emotion_to_playlist/ ├── emotion_model/ # Fine-tuned model directory ├── data/ # Training and test datasets ├── app/ # Application/Interface code ├── utils/ # Helper functions (e.g., for preprocessing) └── README.md

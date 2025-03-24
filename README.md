@@ -1,3 +1,28 @@
-# BERT-Playlist-for-Spotify
-Fine-Tuned BERT Model : https://drive.google.com/file/d/1LKx-9Krz9dN9xs0vHefOwtU5GD_YTYn2/view?usp=drive_link
-Data used: https://research.google/blog/goemotions-a-dataset-for-fine-grained-emotion-classification/
+# 🎧 BERT-Playlist-for-Spotify
+
+This project uses a fine-tuned BERT model to detect emotions from text inputs and generate personalized Spotify playlists based on the predicted emotions.
+
+---
+
+## Fine-Tuned Emotion Classifier
+
+- **Model Download:**  
+  [Fine-Tuned BERT Model (Google Drive)](https://drive.google.com/file/d/1LKx-9Krz9dN9xs0vHefOwtU5GD_YTYn2/view?usp=drive_link)
+
+- **Training Dataset:**  
+  [GoEmotions – A Dataset for Fine-Grained Emotion Classification](https://research.google/blog/goemotions-a-dataset-for-fine-grained-emotion-classification/)
+
+---
+
+## Features
+
+- Emotion classification using fine-tuned BERT
+- Multi-label emotion support (e.g., joy + nostalgia)
+- Integration with Spotify API to recommend playlists
+- UI/UX under development for easy user input
+
+---
+
+## Folder Structure
+
+emotion_to_playlist/ ├── emotion_model/ # Fine-tuned model directory ├── data/ # Training and test datasets ├── app/ # Application/Interface code ├── utils/ # Helper functions (e.g., for preprocessing) └── README.md
